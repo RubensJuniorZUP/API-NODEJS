@@ -1,0 +1,2 @@
+id,nome,valor_unitario,unidade_medida,peso,quantidade,quantidade_estoque
+1,teste,2.500,pc,NULL,1.000,2.000
